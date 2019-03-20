@@ -5,7 +5,7 @@ body{}
 .ribbon {
   position: absolute;
   right: -5px; top: -5px;
-  z-index: 1;
+  z-index: 200;
   overflow: hidden;
   width: 115px; height: 115px;
   text-align: right;
