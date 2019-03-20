@@ -25,8 +25,8 @@ body{}
   background: linear-gradient(#EAC2C2 0%, #D9B4B4 100%);
   box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
   position: absolute;
-  top: 32px;
-    right: -28px;
+  top: 33px;
+  right: -27px; 
 }
 .ribbon span::before {
   content: "";
